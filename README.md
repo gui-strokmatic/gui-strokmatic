@@ -1,13 +1,13 @@
 <div align="center">
   <h2>Guilherme Teixeira</h2>
-  <code>Software Engineer · Strokmatic</code>
+  <code>Frontend Engineer · Strokmatic</code>
 </div>
 
 <br/>
 
 ```
-role        Software Engineer & Tech Lead
-focus       Industrial Vision · Automation · Design Systems
+role        Frontend Engineer
+focus       Angular · Design Systems · Industrial UI
 location    Brazil
 ```
 
@@ -17,9 +17,9 @@ location    Brazil
 
 | Product | Stack | Role |
 |---|---|---|
-| [DieMaster](https://github.com/strokmatic/diemaster) | Angular · Node.js · Python | Tech Lead |
-| [SpotFusion](https://github.com/strokmatic/spotfusion) | Angular · Node.js · Python | Tech Lead |
-| [VisionKing](https://github.com/strokmatic/visionking) | Angular · Node.js · Python | Tech Lead |
+| [DieMaster](https://github.com/strokmatic/diemaster) | Angular · TypeScript | Frontend |
+| [SpotFusion](https://github.com/strokmatic/spotfusion) | Angular · TypeScript | Frontend |
+| [VisionKing](https://github.com/strokmatic/visionking) | Angular · TypeScript | Frontend |
 | [SDK UI Components](https://github.com/strokmatic/sdk-ui-components) | Angular · Storybook | Owner |
 
 <br/>
@@ -29,12 +29,12 @@ location    Brazil
 <div align="center">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
+  <img alt="RxJS" src="https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white"/>
+  <img alt="Storybook" src="https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white"/>
+  <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
+  <img alt="SCSS" src="https://img.shields.io/badge/SCSS-CC6699?style=flat-square&logo=sass&logoColor=white"/>
   <img alt="Node.js" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white"/>
-  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-  <img alt="RabbitMQ" src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white"/>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white"/>
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 </div>
 
