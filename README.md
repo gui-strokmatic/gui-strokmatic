@@ -9,17 +9,6 @@
 
 <br/>
 
-```
-role        Frontend Developer
-education   Software Engineer
-focus       Angular · Design Systems · Industrial UI
-location    São Paulo, SP — Brazil
-```
-
-<br/>
-
-## Stack
-
 <div align="center">
   <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white"/>
@@ -31,6 +20,15 @@ location    São Paulo, SP — Brazil
   <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
   <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
 </div>
+
+<br/>
+
+```
+role        Frontend Developer
+education   Software Engineer
+focus       Angular · Design Systems · Industrial UI
+location    São Paulo, SP — Brazil
+```
 
 <br/>
 
