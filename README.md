@@ -37,10 +37,6 @@ location    São Paulo, SP — Brazil
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gui-strokmatic&theme=discord&no-frame=true&row=1&column=4&no-bg=true"/>
-</div>
-
-<div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/gui-strokmatic/gui-strokmatic/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </div>
 
