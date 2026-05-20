@@ -23,15 +23,6 @@
 
 <br/>
 
-```
-role        Frontend Developer
-education   Software Engineer
-focus       Angular · Design Systems · Industrial UI
-location    São Paulo, SP — Brazil
-```
-
-<br/>
-
 ## Stats
 
 <div align="center">
