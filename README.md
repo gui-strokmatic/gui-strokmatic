@@ -1,14 +1,15 @@
 <div align="center">
-  <h2>Guilherme Teixeira</h2>
-  <code>Frontend Engineer · Strokmatic</code>
+  <h2>Guilherme Teixeira Santos</h2>
+  <code>Frontend Developer · Software Engineer · Strokmatic</code>
 </div>
 
 <br/>
 
 ```
-role        Frontend Engineer
+role        Frontend Developer
+education   Software Engineer
 focus       Angular · Design Systems · Industrial UI
-location    Brazil
+location    São Paulo, SP — Brazil
 ```
 
 <br/>
