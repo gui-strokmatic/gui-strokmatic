@@ -37,8 +37,12 @@ location    São Paulo, SP — Brazil
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=gui-strokmatic&color=6e40c9&style=flat-square&label=profile+views"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=gui-strokmatic&theme=discord&no-frame=true&row=1&column=4&no-bg=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gui-strokmatic&show_icons=true&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&bg_color=0d1117&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
+  <img height="160em" src="https://github-profile-trophy.vercel.app/?username=gui-strokmatic&theme=discord&no-frame=true&row=1&column=4&no-bg=true"/>
+</div>
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/gui-strokmatic/gui-strokmatic/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </div>
 
 <br/>
