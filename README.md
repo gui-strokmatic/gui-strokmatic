@@ -15,14 +15,14 @@ location    Brazil
 
 ## Active Products
 
-| Repository | Product | Description |
-|---|---|---|
-| [diemaster-front-end](https://github.com/strokmatic/diemaster-front-end) | DieMaster | Main frontend |
-| [spotfusion-frontend](https://github.com/strokmatic/spotfusion-frontend) | SpotFusion | Main frontend |
-| [visionking-frontend](https://github.com/strokmatic/visionking-frontend) | VisionKing | Main frontend |
-| [visionking-frontend-ds](https://github.com/strokmatic/visionking-frontend-ds) | VisionKing | Defect Studio frontend |
-| [visionking-frontend-sealer](https://github.com/strokmatic/visionking-frontend-sealer) | VisionKing | Sealer frontend |
-| [sdk-ui-components](https://github.com/strokmatic/sdk-ui-components) | SDK | Shared component library |
+| Monorepo | Submodule | Stack | Since |
+|---|---|---|---|
+| [spotfusion](https://github.com/strokmatic/spotfusion) | [spotfusion-frontend](https://github.com/strokmatic/spotfusion-frontend) | Angular · Material · RxJS | Nov 2022 |
+| [visionking](https://github.com/strokmatic/visionking) | [visionking-frontend](https://github.com/strokmatic/visionking-frontend) | Angular · Material · RxJS · ECharts | May 2024 |
+| [sdk-ui-components](https://github.com/strokmatic/sdk-ui-components) | [sdk-ui-components](https://github.com/strokmatic/sdk-ui-components) | Angular · Material · Storybook · ECharts | Jul 2025 |
+| [visionking](https://github.com/strokmatic/visionking) | [visionking-frontend-ds](https://github.com/strokmatic/visionking-frontend-ds) | Angular · Material · RxJS | Aug 2025 |
+| [diemaster](https://github.com/strokmatic/diemaster) | [diemaster-front-end](https://github.com/strokmatic/diemaster-front-end) | Angular · Material · RxJS | May 2026 |
+| [visionking](https://github.com/strokmatic/visionking) | [visionking-frontend-sealer](https://github.com/strokmatic/visionking-frontend-sealer) | Angular · Material · RxJS | May 2026 |
 
 <br/>
 
