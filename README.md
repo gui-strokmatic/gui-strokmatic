@@ -37,8 +37,8 @@ location    São Paulo, SP — Brazil
 </div>
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gui-strokmatic&show_icons=true&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&bg_color=0d1117&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-strokmatic&layout=compact&langs_count=6&title_color=6e40c9&text_color=c9d1d9&bg_color=0d1117&hide_border=true&hide=html"/>
+  <img height="160em" src="https://streak-stats.demolab.com?user=gui-strokmatic&theme=transparent&hide_border=true&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&background=0d1117"/>
+  <img height="160em" src="https://github-profile-trophy.vercel.app/?username=gui-strokmatic&theme=discord&no-frame=true&row=1&column=4&no-bg=true"/>
 </div>
 
 <br/>
