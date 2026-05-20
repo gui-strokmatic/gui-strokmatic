@@ -1,10 +1,12 @@
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/gui-strokmatic/gui-strokmatic/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-</div>
-
-<div align="center">
   <h2>Guilherme Teixeira Santos</h2>
   <code>Frontend Developer · Software Engineer · Strokmatic</code>
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/gui-strokmatic/gui-strokmatic/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
 </div>
 
 <br/>
@@ -22,7 +24,6 @@
 </div>
 
 <br/>
-
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gui-strokmatic&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&hide_border=true" width="100%"/>
