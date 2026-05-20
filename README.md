@@ -37,8 +37,8 @@ location    São Paulo, SP — Brazil
 </div>
 
 <div align="center">
-  <img height="160em" src="https://streak-stats.demolab.com?user=gui-strokmatic&theme=transparent&hide_border=true&ring=6e40c9&fire=6e40c9&currStreakLabel=6e40c9&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&background=0d1117"/>
-  <img height="160em" src="https://github-profile-trophy.vercel.app/?username=gui-strokmatic&theme=discord&no-frame=true&row=1&column=4&no-bg=true"/>
+  <img src="https://komarev.com/ghpvc/?username=gui-strokmatic&color=6e40c9&style=flat-square&label=profile+views"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=gui-strokmatic&theme=discord&no-frame=true&row=1&column=4&no-bg=true"/>
 </div>
 
 <br/>
