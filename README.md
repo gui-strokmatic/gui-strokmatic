@@ -15,12 +15,14 @@ location    Brazil
 
 ## Active Products
 
-| Product | Stack | Role |
+| Repository | Product | Description |
 |---|---|---|
-| [DieMaster](https://github.com/strokmatic/diemaster) | Angular · TypeScript | Frontend |
-| [SpotFusion](https://github.com/strokmatic/spotfusion) | Angular · TypeScript | Frontend |
-| [VisionKing](https://github.com/strokmatic/visionking) | Angular · TypeScript | Frontend |
-| [SDK UI Components](https://github.com/strokmatic/sdk-ui-components) | Angular · Storybook | Owner |
+| [diemaster-front-end](https://github.com/strokmatic/diemaster-front-end) | DieMaster | Main frontend |
+| [spotfusion-frontend](https://github.com/strokmatic/spotfusion-frontend) | SpotFusion | Main frontend |
+| [visionking-frontend](https://github.com/strokmatic/visionking-frontend) | VisionKing | Main frontend |
+| [visionking-frontend-ds](https://github.com/strokmatic/visionking-frontend-ds) | VisionKing | Defect Studio frontend |
+| [visionking-frontend-sealer](https://github.com/strokmatic/visionking-frontend-sealer) | VisionKing | Sealer frontend |
+| [sdk-ui-components](https://github.com/strokmatic/sdk-ui-components) | SDK | Shared component library |
 
 <br/>
 
