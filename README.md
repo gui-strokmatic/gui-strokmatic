@@ -14,36 +14,6 @@ location    São Paulo, SP — Brazil
 
 <br/>
 
-## Contributed Repositories
-
-| Monorepo | Submodule | Stack | Since |
-|---|---|---|---|
-| [spotfusion](https://github.com/strokmatic/spotfusion) | [spotfusion-backend](https://github.com/strokmatic/spotfusion-backend) | Node.js · TypeScript | Nov 2022 |
-| [spotfusion](https://github.com/strokmatic/spotfusion) | [spotfusion-frontend](https://github.com/strokmatic/spotfusion-frontend) | Angular · TypeScript | Nov 2022 |
-| — | sparkeyes-front-end | Angular · TypeScript | Nov 2022 |
-| [visionking](https://github.com/strokmatic/visionking) | [visionking-backend](https://github.com/strokmatic/visionking-backend) | Node.js · TypeScript | May 2024 |
-| [visionking](https://github.com/strokmatic/visionking) | [visionking-database-writer](https://github.com/strokmatic/visionking-database-writer) | Python | May 2024 |
-| [visionking](https://github.com/strokmatic/visionking) | [visionking-frontend](https://github.com/strokmatic/visionking-frontend) | Angular · TypeScript | May 2024 |
-| [visionking](https://github.com/strokmatic/visionking) | [visionking-image-saver](https://github.com/strokmatic/visionking-image-saver) | Python | May 2024 |
-| [visionking](https://github.com/strokmatic/visionking) | [visionking-inference](https://github.com/strokmatic/visionking-inference) | Python | Jun 2024 |
-| [diemaster](https://github.com/strokmatic/diemaster) | [diemaster-back-end](https://github.com/strokmatic/diemaster-back-end) | Node.js · TypeScript | Apr 2025 |
-| [sdk-ui-components](https://github.com/strokmatic/sdk-ui-components) | [sdk-ui-components](https://github.com/strokmatic/sdk-ui-components) | Angular · Storybook | Jul 2025 |
-| [visionking](https://github.com/strokmatic/visionking) | [visionking-frontend-ds](https://github.com/strokmatic/visionking-frontend-ds) | Angular · TypeScript | Aug 2025 |
-| [visionking](https://github.com/strokmatic/visionking) | [visionking-visualizer](https://github.com/strokmatic/visionking-visualizer) | Python | Aug 2025 |
-| [visionking](https://github.com/strokmatic/visionking) | [visionking-backend-ds](https://github.com/strokmatic/visionking-backend-ds) | Node.js · TypeScript | Nov 2025 |
-| [visionking](https://github.com/strokmatic/visionking) | [visionking-setup](https://github.com/strokmatic/visionking-setup) | SQL · YAML · Shell | Dec 2025 |
-| [infra](https://github.com/strokmatic/infra) | [infra](https://github.com/strokmatic/infra) | Node.js · Shell | Apr 2026 |
-| [visionking](https://github.com/strokmatic/visionking) | [visionking-camera-acquisition](https://github.com/strokmatic/visionking-camera-acquisition) | Python | Apr 2026 |
-| [visionking](https://github.com/strokmatic/visionking) | [visionking-controller](https://github.com/strokmatic/visionking-controller) | C++ | Apr 2026 |
-| [visionking](https://github.com/strokmatic/visionking) | [visionking-plc-monitor](https://github.com/strokmatic/visionking-plc-monitor) | C++ | Apr 2026 |
-| [diemaster](https://github.com/strokmatic/diemaster) | [diemaster-data-processing](https://github.com/strokmatic/diemaster-data-processing) | Python | May 2026 |
-| [diemaster](https://github.com/strokmatic/diemaster) | [diemaster-front-end](https://github.com/strokmatic/diemaster-front-end) | Angular · TypeScript | May 2026 |
-| [diemaster](https://github.com/strokmatic/diemaster) | [diemaster-infra-setup](https://github.com/strokmatic/diemaster-infra-setup) | SQL · YAML · Shell | May 2026 |
-| [visionking](https://github.com/strokmatic/visionking) | [visionking-backend-sealer](https://github.com/strokmatic/visionking-backend-sealer) | Docker · Shell | May 2026 |
-| [visionking](https://github.com/strokmatic/visionking) | [visionking-frontend-sealer](https://github.com/strokmatic/visionking-frontend-sealer) | Angular · TypeScript | May 2026 |
-
-<br/>
-
 ## Stack
 
 <div align="center">
@@ -70,6 +40,35 @@ location    São Paulo, SP — Brazil
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=gui-strokmatic&show_icons=true&title_color=6e40c9&icon_color=6e40c9&text_color=c9d1d9&bg_color=0d1117&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gui-strokmatic&layout=compact&langs_count=6&title_color=6e40c9&text_color=c9d1d9&bg_color=0d1117&hide_border=true&hide=html"/>
 </div>
+
+<br/>
+
+## Contributed Repositories
+
+| Monorepo | Submodule | Stack | Since | Contribution |
+|---|---|---|---|---|
+| [sdk-ui-components](https://github.com/strokmatic/sdk-ui-components) | [sdk-ui-components](https://github.com/strokmatic/sdk-ui-components) | Angular · Storybook | Jul 2025 | Design tokens, shared components, brand logos |
+| [visionking](https://github.com/strokmatic/visionking) | [visionking-backend](https://github.com/strokmatic/visionking-backend) | Node.js · TypeScript | Aug 2025 | Auth, users CRUD, monitoring queries, CI/CD |
+| [visionking](https://github.com/strokmatic/visionking) | [visionking-frontend](https://github.com/strokmatic/visionking-frontend) | Angular · TypeScript | Aug 2025 | Full feature dev — settings, sidenav, auth, inspection views |
+| [visionking](https://github.com/strokmatic/visionking) | [visionking-frontend-ds](https://github.com/strokmatic/visionking-frontend-ds) | Angular · TypeScript | Aug 2025 | Defect Studio UI, inspection flow, SCSS refactor |
+| [visionking](https://github.com/strokmatic/visionking) | [visionking-visualizer](https://github.com/strokmatic/visionking-visualizer) | Python | Aug 2025 | Initial setup, CI/CD |
+| [diemaster](https://github.com/strokmatic/diemaster) | [diemaster-back-end](https://github.com/strokmatic/diemaster-back-end) | Node.js · TypeScript | Sep 2025 | Sensor/panel endpoints, PostgreSQL integration, sparklines |
+| [visionking](https://github.com/strokmatic/visionking) | [visionking-backend-ds](https://github.com/strokmatic/visionking-backend-ds) | Node.js · TypeScript | Nov 2025 | Sealer product profile, GCP configs, infra renaming |
+| [visionking](https://github.com/strokmatic/visionking) | [visionking-setup](https://github.com/strokmatic/visionking-setup) | SQL · Shell | Dec 2025 | Database migrations |
+| [infra](https://github.com/strokmatic/infra) | [infra](https://github.com/strokmatic/infra) | Node.js · Shell | Apr 2026 | GitHub↔ClickUp bidirectional sync service |
+| [spotfusion](https://github.com/strokmatic/spotfusion) | [spotfusion-backend](https://github.com/strokmatic/spotfusion-backend) | Node.js · TypeScript | Apr 2026 | User management API — CRUD, roles, auth |
+| [spotfusion](https://github.com/strokmatic/spotfusion) | [spotfusion-frontend](https://github.com/strokmatic/spotfusion-frontend) | Angular · TypeScript | Apr 2026 | User management screen — table, role edit, bulk delete |
+| [visionking](https://github.com/strokmatic/visionking) | [visionking-camera-acquisition](https://github.com/strokmatic/visionking-camera-acquisition) | Python | Apr 2026 | CI/CD pipeline |
+| [visionking](https://github.com/strokmatic/visionking) | [visionking-controller](https://github.com/strokmatic/visionking-controller) | C++ | Apr 2026 | CI/CD pipeline |
+| [visionking](https://github.com/strokmatic/visionking) | [visionking-database-writer](https://github.com/strokmatic/visionking-database-writer) | Python | Apr 2026 | CI/CD pipeline |
+| [visionking](https://github.com/strokmatic/visionking) | [visionking-image-saver](https://github.com/strokmatic/visionking-image-saver) | Python | Apr 2026 | CI/CD pipeline |
+| [visionking](https://github.com/strokmatic/visionking) | [visionking-inference](https://github.com/strokmatic/visionking-inference) | Python | Apr 2026 | CI/CD pipeline |
+| [visionking](https://github.com/strokmatic/visionking) | [visionking-plc-monitor](https://github.com/strokmatic/visionking-plc-monitor) | C++ | Apr 2026 | CI/CD pipeline |
+| [diemaster](https://github.com/strokmatic/diemaster) | [diemaster-data-processing](https://github.com/strokmatic/diemaster-data-processing) | Python | May 2026 | Bug fix |
+| [diemaster](https://github.com/strokmatic/diemaster) | [diemaster-front-end](https://github.com/strokmatic/diemaster-front-end) | Angular · TypeScript | May 2026 | Curve detail modal, strike pagination, dropdowns |
+| [diemaster](https://github.com/strokmatic/diemaster) | [diemaster-infra-setup](https://github.com/strokmatic/diemaster-infra-setup) | SQL · Shell | May 2026 | Database schema — sensor_type_field, migrations |
+| [visionking](https://github.com/strokmatic/visionking) | [visionking-backend-sealer](https://github.com/strokmatic/visionking-backend-sealer) | Node.js · TypeScript | May 2026 | Project bootstrap — NestJS, auth, Swagger, Docker |
+| [visionking](https://github.com/strokmatic/visionking) | [visionking-frontend-sealer](https://github.com/strokmatic/visionking-frontend-sealer) | Angular · TypeScript | May 2026 | Project bootstrap — Angular 17, Material, Compodoc |
 
 <br/>
 
