@@ -23,7 +23,6 @@
 
 <br/>
 
-## Stats
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gui-strokmatic&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&hide_border=true" width="100%"/>
