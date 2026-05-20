@@ -26,12 +26,6 @@
 ## Stats
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gui-strokmatic&theme=discord&no-frame=true&row=1&column=6&no-bg=true&margin-w=8"/>
-</div>
-
-<br/>
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=gui-strokmatic&bg_color=0d1117&color=6e40c9&line=6e40c9&point=ffffff&hide_border=true" width="100%"/>
 </div>
 
@@ -63,6 +57,12 @@
 | [diemaster](https://github.com/strokmatic/diemaster) | [diemaster-infra-setup](https://github.com/strokmatic/diemaster-infra-setup) | SQL · Shell | May 2026 | Database schema — sensor_type_field, migrations |
 | [visionking](https://github.com/strokmatic/visionking) | [visionking-backend-sealer](https://github.com/strokmatic/visionking-backend-sealer) | Node.js · TypeScript | May 2026 | Project bootstrap — NestJS, auth, Swagger, Docker |
 | [visionking](https://github.com/strokmatic/visionking) | [visionking-frontend-sealer](https://github.com/strokmatic/visionking-frontend-sealer) | Angular · TypeScript | May 2026 | Project bootstrap — Angular 17, Material, Compodoc |
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gui-strokmatic&theme=discord&no-frame=true&row=1&column=6&no-bg=true&margin-w=8"/>
+</div>
 
 <br/>
 
