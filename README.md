@@ -25,12 +25,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-trophy.vercel.app/?username=gui-strokmatic&theme=discord&no-frame=true&row=1&column=6&no-bg=true&margin-w=8"/>
-</div>
-
-<br/>
-
 ## Contributed Repositories
 
 | Monorepo | Submodule | Stack | Since | Contribution |
