@@ -27,23 +27,26 @@
 
 ## Contributed Repositories
 
-| Monorepo | Submodule | Stack | Since | Contribution |
-|---|---|---|---|---|
-| [sdk-ui-components](https://github.com/strokmatic/sdk-ui-components) | [sdk-ui-components](https://github.com/strokmatic/sdk-ui-components) | Angular · Storybook | Jul 2025 | Design tokens, shared components, brand logos |
-| [visionking](https://github.com/strokmatic/visionking) | [visionking-backend](https://github.com/strokmatic/visionking-backend) | Node.js · TypeScript | Aug 2025 | Auth, users CRUD, monitoring queries, CI/CD |
-| [visionking](https://github.com/strokmatic/visionking) | [visionking-frontend](https://github.com/strokmatic/visionking-frontend) | Angular · TypeScript | Aug 2025 | Full feature dev — settings, sidenav, auth, inspection views |
-| [visionking](https://github.com/strokmatic/visionking) | [visionking-frontend-body](https://github.com/strokmatic/visionking-frontend-body) | Angular · TypeScript | Aug 2025 | Defect Studio UI, inspection flow, SCSS refactor |
-| [visionking](https://github.com/strokmatic/visionking) | [visionking-visualizer](https://github.com/strokmatic/visionking-visualizer) | Python | Aug 2025 | Initial setup, CI/CD |
-| [diemaster](https://github.com/strokmatic/diemaster) | [diemaster-back-end](https://github.com/strokmatic/diemaster-back-end) | Node.js · TypeScript | Sep 2025 | Sensor/panel endpoints, PostgreSQL integration, sparklines |
-| [visionking](https://github.com/strokmatic/visionking) | [visionking-backend-body](https://github.com/strokmatic/visionking-backend-body) | Node.js · TypeScript | Nov 2025 | Sealer product profile, GCP configs, infra renaming |
-| [visionking](https://github.com/strokmatic/visionking) | [visionking-setup](https://github.com/strokmatic/visionking-setup) | SQL · Shell | Dec 2025 | Database migrations |
-| [infra](https://github.com/strokmatic/infra) | [infra](https://github.com/strokmatic/infra) | Node.js · Shell | Apr 2026 | GitHub↔ClickUp bidirectional sync service |
-| [spotfusion](https://github.com/strokmatic/spotfusion) | [spotfusion-backend](https://github.com/strokmatic/spotfusion-backend) | Node.js · TypeScript | Apr 2026 | User management API — CRUD, roles, auth |
-| [spotfusion](https://github.com/strokmatic/spotfusion) | [spotfusion-frontend](https://github.com/strokmatic/spotfusion-frontend) | Angular · TypeScript | Apr 2026 | User management screen — table, role edit, bulk delete |
-| [diemaster](https://github.com/strokmatic/diemaster) | [diemaster-front-end](https://github.com/strokmatic/diemaster-front-end) | Angular · TypeScript | May 2026 | Curve detail modal, strike pagination, dropdowns |
-| [diemaster](https://github.com/strokmatic/diemaster) | [diemaster-infra-setup](https://github.com/strokmatic/diemaster-infra-setup) | SQL · Shell | May 2026 | Database schema — sensor_type_field, migrations |
-| [visionking](https://github.com/strokmatic/visionking) | [visionking-backend-sealer](https://github.com/strokmatic/visionking-backend-sealer) | Node.js · TypeScript | May 2026 | Project bootstrap — NestJS, auth, Swagger, Docker |
-| [visionking](https://github.com/strokmatic/visionking) | [visionking-frontend-sealer](https://github.com/strokmatic/visionking-frontend-sealer) | Angular · TypeScript | May 2026 | Project bootstrap — Angular 17, Material, Compodoc |
+| Repo | Stack | Since | Contribution |
+|---|---|---|---|
+| [sdk-ui-components](https://github.com/strokmatic/sdk-ui-components) | Angular · Storybook | Jul 2025 | In from the start of the design system — design tokens, shared components, brand identity |
+| [visionking-backend](https://github.com/strokmatic/visionking-backend) | Node.js · TypeScript | Aug 2025 | Joined an already-established backend and matured it — auth, users CRUD, monitoring queries |
+| [visionking-frontend](https://github.com/strokmatic/visionking-frontend) | Angular · TypeScript | Aug 2025 | Matured the frontend with full feature development — settings, sidenav, auth, inspection views |
+| [visionking-frontend-body](https://github.com/strokmatic/visionking-frontend-body) | Angular · TypeScript | Aug 2025 | Matured the Defect Studio UI — inspection flow, SCSS refactor |
+| [visionking-visualizer](https://github.com/strokmatic/visionking-visualizer) | Python | Aug 2025 | Bootstrapped the service from scratch — initial setup, CI/CD |
+| [diemaster-back-end](https://github.com/strokmatic/diemaster-back-end) | Node.js · TypeScript | Sep 2025 | Matured the backend — sensor/panel endpoints, PostgreSQL integration, sparklines |
+| [visionking-backend-body](https://github.com/strokmatic/visionking-backend-body) | Node.js · TypeScript | Nov 2025 | Founded the Sealer product line — product profile, GCP configs, infra renaming |
+| [visionking-setup](https://github.com/strokmatic/visionking-setup) | SQL · Shell | Dec 2025 | Ongoing maintenance — database migrations |
+| [diemaster](https://github.com/strokmatic/diemaster) | Shell · Git | Mar 2026 | Automated the umbrella repo — submodule pointer bumps, GitHub Secrets/CI setup |
+| [infra](https://github.com/strokmatic/infra) | Node.js · Shell | Apr 2026 | Built and automated a new service from scratch — GitHub↔ClickUp bidirectional sync |
+| [spotfusion-backend](https://github.com/strokmatic/spotfusion-backend) | Node.js · TypeScript | Apr 2026 | Founded the user-management module — CRUD API, roles, auth |
+| [spotfusion-frontend](https://github.com/strokmatic/spotfusion-frontend) | Angular · TypeScript | Apr 2026 | Founded the user-management screen — table, role editing, bulk delete |
+| [diemaster-front-end](https://github.com/strokmatic/diemaster-front-end) | Angular · TypeScript | May 2026 | Matured the frontend — curve detail modal, strike pagination, dropdowns |
+| [diemaster-infra-setup](https://github.com/strokmatic/diemaster-infra-setup) | SQL · Shell | May 2026 | Schema maintenance — sensor_type_field, migrations |
+| [visionking-backend-sealer](https://github.com/strokmatic/visionking-backend-sealer) | Node.js · TypeScript | May 2026 | Bootstrapped the Sealer backend from zero — NestJS, auth, Swagger, Docker |
+| [visionking-frontend-sealer](https://github.com/strokmatic/visionking-frontend-sealer) | Angular · TypeScript | May 2026 | Bootstrapped the Sealer frontend from zero — Angular 17, Material, Compodoc |
+| [visionking](https://github.com/strokmatic/visionking) | Shell · Git | Jun 2026 | Automated the umbrella repo — submodule pointer bumps, GitHub Secrets/CI setup, docs |
+| [spotfusion](https://github.com/strokmatic/spotfusion) | Shell · Git | Jun 2026 | Automated the umbrella repo — GitHub Secrets/CI setup, docs |
 
 <br/>
 
