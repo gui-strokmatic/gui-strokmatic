@@ -40,13 +40,6 @@
 | [infra](https://github.com/strokmatic/infra) | [infra](https://github.com/strokmatic/infra) | Node.js · Shell | Apr 2026 | GitHub↔ClickUp bidirectional sync service |
 | [spotfusion](https://github.com/strokmatic/spotfusion) | [spotfusion-backend](https://github.com/strokmatic/spotfusion-backend) | Node.js · TypeScript | Apr 2026 | User management API — CRUD, roles, auth |
 | [spotfusion](https://github.com/strokmatic/spotfusion) | [spotfusion-frontend](https://github.com/strokmatic/spotfusion-frontend) | Angular · TypeScript | Apr 2026 | User management screen — table, role edit, bulk delete |
-| [visionking](https://github.com/strokmatic/visionking) | [visionking-camera-acquisition](https://github.com/strokmatic/visionking-camera-acquisition) | Python | Apr 2026 | CI/CD pipeline |
-| [visionking](https://github.com/strokmatic/visionking) | [visionking-controller](https://github.com/strokmatic/visionking-controller) | C++ | Apr 2026 | CI/CD pipeline |
-| [visionking](https://github.com/strokmatic/visionking) | [visionking-database-writer](https://github.com/strokmatic/visionking-database-writer) | Python | Apr 2026 | CI/CD pipeline |
-| [visionking](https://github.com/strokmatic/visionking) | [visionking-image-saver](https://github.com/strokmatic/visionking-image-saver) | Python | Apr 2026 | CI/CD pipeline |
-| [visionking](https://github.com/strokmatic/visionking) | [visionking-inference](https://github.com/strokmatic/visionking-inference) | Python | Apr 2026 | CI/CD pipeline |
-| [visionking](https://github.com/strokmatic/visionking) | [visionking-plc-monitor](https://github.com/strokmatic/visionking-plc-monitor) | C++ | Apr 2026 | CI/CD pipeline |
-| [diemaster](https://github.com/strokmatic/diemaster) | [diemaster-data-processing](https://github.com/strokmatic/diemaster-data-processing) | Python | May 2026 | Bug fix |
 | [diemaster](https://github.com/strokmatic/diemaster) | [diemaster-front-end](https://github.com/strokmatic/diemaster-front-end) | Angular · TypeScript | May 2026 | Curve detail modal, strike pagination, dropdowns |
 | [diemaster](https://github.com/strokmatic/diemaster) | [diemaster-infra-setup](https://github.com/strokmatic/diemaster-infra-setup) | SQL · Shell | May 2026 | Database schema — sensor_type_field, migrations |
 | [visionking](https://github.com/strokmatic/visionking) | [visionking-backend-sealer](https://github.com/strokmatic/visionking-backend-sealer) | Node.js · TypeScript | May 2026 | Project bootstrap — NestJS, auth, Swagger, Docker |
